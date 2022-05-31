@@ -1,0 +1,23 @@
+ordenaçao inversa(para numeros ou textos)
+variavel.sort(reverse=True)
+ex. copia de uma lista
+criar uma nova lista de uma lista existente
+funçao copy(); ou
+funçao list()
+ex: novaLista = listaExistente.copy()
+ex: novaLista = list(listaexistente) 
+funçao para verificar quantas vezes um objeto ocorre dentro de uma lista.
+ex:n variavel.count(objeto)
+print(quantidade) # imprime 3                                          
+verificar a 1 pesiçao de ummobjeto de uma lista:
+variavel.index(objeto)ordenaçao inversa (para numeros ou textos)
+
+intervalos- funçao range()
+um intervalo e definido por:
+um valor inicial
+um valor final; e 
+um valor de passo
+a funçao range gera sequencia e define intervalo de valores
+sintax
+range(inicio, fim, passo)
+antecessor e sucessor
